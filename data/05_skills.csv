@@ -1,0 +1,10 @@
+Skill_ID,Character_ID,Skill_Name,Type,Target,Multiplier,Energy_Cost,Cooldown,Extra_Effect,Risk_Note
+S001,C001,Shadow Strike,Basic,Single Enemy,100%,0,0,None,Low risk
+S002,C001,Crimson Execute,Active,Lowest HP Enemy,320%,100,3,+30% damage if target HP < 35%,Execute threshold and crit burst risk
+S003,C001,Kill Energy,Passive,Self,0%,0,0,+30 energy after kill,Chain kill risk
+S004,C002,Star Bolt,Basic,Single Enemy,90%,0,0,+5 energy,Energy loop risk
+S005,C002,Star Ring Burst,Active,All Enemies,145%,100,3,AOE damage,High total multiplier risk
+S006,C002,Stardust Echo,Passive,All Hit Enemies,35%,0,2,DOT for 2 turns,DOT stacking risk
+S007,C003,Light Feather,Basic,Enemy + Ally,70%,0,0,Heal lowest HP ally for ATK ¡Á 60%,High auto sustain risk
+S008,C003,Holy Protection,Active,All Allies,120%,100,3,Group heal and shield ATK ¡Á 150%,Shield uptime risk
+S009,C003,Purify,Passive,All Allies,0%,0,0,60% chance to remove 1 debuff,Support overload risk

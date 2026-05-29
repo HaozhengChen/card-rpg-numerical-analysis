@@ -1,0 +1,8 @@
+Stage,Level_Range,Target_Level,Total_EXP,Gold,Ascension_Materials,Skill_Books,Shards,Equipment_Materials,Design_Purpose
+Initial,1,1,0,0,0,0,0,0,Character obtained
+Early I,1-10,10,12000,3000,0,2,0,10,Fast growth feedback
+Early II,11-20,20,55000,12000,5,5,0,30,First progression gate
+Mid I,21-30,30,120000,35000,15,12,20,80,Introduce skill and shard pressure
+Mid II,31-40,40,220000,90000,35,25,40,160,Main team commitment
+Late I,41-50,50,360000,210000,50,45,80,320,Strong resource tension
+Late II,51-60,60,520000,480000,60,80,120,600,Long-term build target

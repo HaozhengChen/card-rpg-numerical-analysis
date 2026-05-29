@@ -1,0 +1,6 @@
+Breakthrough,Required_Level,New_Level_Cap,Gold_Cost,Material_Type,Material_Count,Stat_Bonus,Unlock
+BT0,1,20,0,None,0,0%,Base state
+BT1,20,30,12000,Basic Ascension Stone,5,5%,First ascension
+BT2,30,40,35000,Basic Ascension Stone,15,8%,Passive slot
+BT3,40,50,90000,Mid Ascension Stone,35,12%,Advanced skill scaling
+BT4,50,60,210000,High Ascension Stone,50,15%,Late-game growth

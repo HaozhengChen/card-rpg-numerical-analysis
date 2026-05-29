@@ -1,0 +1,7 @@
+Star,Required_Shards,ATK_Bonus,HP_Bonus,DEF_Bonus,Unlock_Effect,Design_Note
+1,0,0%,0%,0%,Base character,Usable at acquisition
+2,20,8%,8%,6%,None,Small stat improvement
+3,40,10%,10%,8%,Passive enhancement,First meaningful upgrade
+4,80,8%,8%,6%,None,Controlled stat growth
+5,120,10%,10%,8%,Skill mechanism upgrade,High investment reward
+6,180,6%,6%,5%,Minor final optimization,Diminishing return to avoid huge gap

@@ -1,0 +1,11 @@
+Risk,Cause,Impact,Detection_Method,Mitigation
+Crit Scaling Inflation,Crit rate and crit damage scale together,Late-game burst becomes too high,Expected damage curve test,Crit cap and controlled crit damage sources
+Speed Dominance,Speed affects both turn order and energy cycle,First-turn advantage becomes too strong,Turn order simulation,Limit speed scaling and separate speed from energy gain
+Healing Inflation,High healing uptime makes damage meaningless,Stages require burst or anti-heal mechanics,Survival duration test,Control healing frequency and energy cost
+Shield Stacking,Multiple shields stack without limits,Teams become nearly unkillable,Shield uptime analysis,Limit stacking rules and duration
+Star Gap,Duplicate characters provide too much linear power,F2P players fall too far behind,F2P vs paid progression comparison,Diminishing star-up returns
+AOE Overefficiency,AOE skills have high total effective multiplier,AOE units replace single-target DPS,Single-target vs multi-target DPS comparison,Lower AOE multiplier and preserve boss weakness
+Power Score Misleading,Power score ignores synergy and control,Players misjudge team strength,Team performance comparison,Use multi-dimensional team evaluation
+Resource Bottleneck Overlap,Too many resources become scarce at the same time,Players feel blocked and confused,Progression funnel review,Stagger resource pressure by stage
+Energy Loop Abuse,Energy gain and skill effects create repeated ultimates,Skill cycle becomes too fast,Auto-battle cycle simulation,Cap energy refund and adjust skill cost
+Support Overload,Healing shield cleanse and buff exist on one unit,One support becomes mandatory,Role value comparison,Split functions or reduce uptime

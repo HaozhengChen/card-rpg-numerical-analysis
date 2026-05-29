@@ -1,0 +1,6 @@
+Team,Power,Role_Concept,DPS,Survival,Control,Healing,Energy,Synergy,Final_Score,Comment
+Burst Team,120000,Burst and execution,95,55,40,30,70,80,63.75,Strong burst and execution; weak sustain
+Sustain Team,115000,Tank and healer,55,95,45,90,50,70,69,Stable and safe; slower damage output
+Control Team,110000,Control cycle,65,60,95,45,75,85,67.25,Strong disruption; depends on control accuracy
+DOT Team,108000,Long fight DPS,80,70,50,60,65,90,69,Strong in boss fights; slower wave clearing
+Balanced Team,118000,General purpose,75,75,65,65,65,75,71,General-purpose team with fewer weaknesses

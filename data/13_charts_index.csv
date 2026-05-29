@@ -1,0 +1,9 @@
+Chart_Name,Source_Sheet,X_Axis,Y_Axis,Chart_Type,Design_Purpose
+Growth Curve,02_Growth_Curve,Level,Total_EXP,Line Chart,Show Lv.1-60 growth pacing
+Power Modifier Curve,02_Growth_Curve,Level,Power_Modifier,Line Chart,Show power scaling rhythm
+Resource Pressure,07_Resource_Cost,Stage,Gold;Skill_Books;Shards;Equipment_Materials,Stacked Column,Show early/mid/late resource bottlenecks
+Defense Reduction Curve,06_Combat_Calculator,DEF,Defense_Reduction,Line Chart,Show diminishing returns of defense
+Crit Expected Value,06_Combat_Calculator,Crit_Rate,Crit_Expected_Multiplier,Line Chart,Show crit scaling risk
+Team Evaluation Radar,08_Team_Evaluation,Team,DPS;Survival;Control;Healing;Energy;Synergy,Radar Chart,Show team strength beyond power score
+Damage Test Comparison,11_Damage_Test,Skill_Name,Expected_Damage,Column Chart,Compare skill output across roles
+Resource Dashboard,12_Resource_Dashboard,Metric,Value,Bar Chart,Summarize total resource pressure

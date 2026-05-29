@@ -1,0 +1,11 @@
+Metric,Value,Formula_or_Source
+Total_EXP_to_Lv60,520000,From Growth Curve
+Total_Gold,830000,From Resource Cost
+Total_Ascension_Materials,165,From Resource Cost
+Total_Skill_Books,169,From Resource Cost
+Total_Shards,260,From Resource Cost
+Total_Equipment_Materials,1200,From Resource Cost
+Early_Gold,15000,Early stage gold
+Mid_Gold,125000,Mid stage gold
+Late_Gold,690000,Late stage gold
+Resource_Design_Note,"Resources should shift from EXP pressure to gold, skill books, shards, and equipment materials across progression.",Design summary

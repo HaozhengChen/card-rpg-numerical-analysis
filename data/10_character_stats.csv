@@ -1,0 +1,5 @@
+Stat_Key,Character_ID,Name_EN,Level,Star,Breakthrough,Base_HP,Base_ATK,Base_DEF,Power_Modifier,Star_ATK_Bonus,Star_HP_Bonus,Star_DEF_Bonus,BT_Stat_Bonus,Final_HP,Final_ATK,Final_DEF
+C001_L20_S3_BT1,C001,"Serin, Crimson Blade",20,3,BT1,900,140,45,2.29,0.1,0.1,0.08,0.05,2370,369,116
+C001_L60_S5_BT4,C001,"Serin, Crimson Blade",60,5,BT4,900,140,45,5,0.1,0.1,0.08,0.15,5625,875,277
+C002_L60_S5_BT4,C002,"Mia, Star Ring Mage",60,5,BT4,760,155,35,5,0.1,0.1,0.08,0.15,4750,969,215
+C003_L60_S5_BT4,C003,"Noa, White Feather Priest",60,5,BT4,1000,100,50,5,0.1,0.1,0.08,0.15,6250,625,308

@@ -1,0 +1,4 @@
+Test_ID,Stat_Key,Character_ID,Skill_ID,Skill_Name,Final_ATK,Skill_Multiplier,Enemy_DEF,Defense_Constant,Crit_Rate,Crit_Damage_Bonus,Damage_Bonus,Damage_Reduction,Expected_Damage,Damage_Per_Energy,Design_Note
+T001,C001_L60_S5_BT4,C001,S002,Crimson Execute,875,3.2,600,1200,30%,50%,20%,15%,2190,21.9,Burst skill output check
+T002,C002_L60_S5_BT4,C002,S005,Star Ring Burst,969,1.45,600,1200,18%,50%,22%,15%,1059,10.59,AOE per-target output check
+T003,C003_L60_S5_BT4,C003,S008,Holy Protection,625,1.2,600,1200,5%,50%,0%,15%,436,4.36,Support active value reference

@@ -1,0 +1,27 @@
+Parameter,Value,Formula_or_Note
+ATK,1200,Input
+Skill_Multiplier,2.5,Input. 250% = 2.5
+DEF,600,Input
+Defense_Constant,1200,Input
+Crit_Rate,30%,Input
+Crit_Damage_Bonus,50%,Input. Crit damage 150% means bonus 50%
+Damage_Bonus,20%,Input
+Element_Bonus,10%,Input
+Faction_Bonus,0%,Input
+Damage_Reduction,15%,Input
+Attacker_Level,50,Input
+Defender_Level,45,Input
+Level_Modifier,0.85,Clamp level effect between -15% and +15%
+Base_Damage,#VALUE!,ATK * Skill_Multiplier
+Defense_Reduction,0.004149378,DEF / (DEF + Defense_Constant)
+Damage_After_Defense,#VALUE!,Base_Damage * (1 - Defense_Reduction)
+Crit_Expected_Multiplier,361,1 + Crit_Rate * Crit_Damage_Bonus
+Damage_Bonus_Multiplier,180%,1 + all additive damage bonuses
+Damage_Reduction_Multiplier,100%,1 - Damage_Reduction
+Expected_Damage,#VALUE!,Final expected damage
+Healing_Multiplier,1.8,Input
+Healing_Bonus,20%,Input
+Healing_Amount,#VALUE!,Caster ATK * Healing Multiplier * (1 + Healing Bonus)
+Shield_Multiplier,1.5,Input
+Shield_Bonus,10%,Input
+Shield_Amount,#VALUE!,Caster ATK * Shield Multiplier * (1 + Shield Bonus)

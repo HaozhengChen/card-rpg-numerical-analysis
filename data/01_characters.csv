@@ -1,0 +1,4 @@
+Character_ID,Name_CN,Name_EN,Role,Rarity,Faction,Class,Base_HP,Base_ATK,Base_DEF,Base_Speed,Base_Crit_Rate,Base_Crit_Damage,Core_Stats,Design_Note
+C001,ç³ÈÐ¡¤ÈüÁÕ,"Serin, Crimson Blade",Burst DPS,SSR,Crimson,Assassin,900,140,45,112,10%,150%,ATK;Crit Rate;Crit Damage;Speed,Single-target execution and kill reset
+C002,ÐÇ»·ÊõÊ¿¡¤ÃÖæ«,"Mia, Star Ring Mage",AOE DPS,SSR,Astral,Mage,760,155,35,100,5%,150%,ATK;Damage Bonus;Energy;Crit Rate,AOE pressure and energy loop
+C003,°×Óð¼ÀË¾¡¤ÅµÑÅ,"Noa, White Feather Priest",Healer / Shield,SSR,Holy,Support,1000,100,50,98,5%,150%,ATK;Healing Bonus;HP;Energy,Healing shield and anti-burst support
