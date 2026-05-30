@@ -11,7 +11,7 @@ These images are not raw data screenshots. They are selected visual summaries th
 | Image | What It Shows | Why It Matters |
 | --- | --- | --- |
 | `growth_curve.png` | Lv.1–60 EXP and power scaling | Shows how the progression curve creates early feedback and late-game investment |
-| `resource_pressure_pivot.png` | Estimated resource pressure by progression stage | Shows how resource bottlenecks shift across early, mid, and late game |
+| `resource_pressure.png` | Estimated resource pressure by progression stage | Shows how resource bottlenecks shift across early, mid, and late game |
 | `defense_reduction_curve.png` | Defense mitigation with diminishing returns | Shows why defensive stats need nonlinear scaling to avoid invincible units |
 | `crit_expected_value.png` | Expected damage scaling from crit rate and crit damage | Shows how crit systems can create late-game burst inflation |
 | `team_evaluation_radar.png` | Multi-dimensional team role coverage | Shows why team strength cannot be explained by power score alone |
@@ -48,11 +48,11 @@ A good growth curve should not be purely linear. It should give players fast ear
 
 ---
 
-## `resource_pressure_pivot.png`
+## `resource_pressure.png`
 
 **Chart focus:** Resource bottleneck distribution
 
-This pivot chart visualizes estimated resource pressure across different progression stages.
+This chart visualizes estimated resource pressure across different progression stages.
 
 Instead of treating all resources as equally scarce, the model compares resource requirements through estimated farming pressure. This makes it easier to understand which resources become bottlenecks at each stage.
 
