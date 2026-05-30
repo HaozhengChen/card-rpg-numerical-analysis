@@ -12,6 +12,22 @@
 
 ---
 
+## 可视化亮点
+
+### 成长曲线
+
+![成长曲线](images/growth_curve.png)
+
+### 暴击期望收益
+
+![暴击期望收益](images/crit_expected_value.png)
+
+### 阵容多维评估
+
+![阵容多维评估](images/team_evaluation_radar.png)
+
+---
+
 ## 项目目标
 
 这个项目用于展示我以下能力：

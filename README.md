@@ -9,6 +9,22 @@ This is a portfolio project for game numerical design, system design, and combat
 
 ---
 
+## Visual Highlights
+
+### Growth Curve
+
+![Growth Curve](images/growth_curve.png)
+
+### Critical Expected Value
+
+![Critical Expected Value](images/crit_expected_value.png)
+
+### Team Evaluation Radar
+
+![Team Evaluation Radar](images/team_evaluation_radar.png)
+
+---
+
 ## Project Goals
 
 This project demonstrates my ability to:
